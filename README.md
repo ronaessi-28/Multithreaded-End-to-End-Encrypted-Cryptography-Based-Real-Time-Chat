@@ -1,4 +1,4 @@
-# Multithreaded-End-to-End-Encrypted-Cryptography-Based-Real-Time-Chatw
+# Multithreaded-End-to-End-Encrypted-Cryptography-Based-Real-Time-Chat
 This is an encrypted chat application to make 2 clients offline chatting possible via LAN or Wifi hotspot, thought a connection with a system that is made as a server.
 The server is unable to decypher the chat texts among the 2 clients. It is developed by the use of Socket Programming in Python and the  encryption is done using RSA Algorithm.
 
@@ -12,7 +12,7 @@ The server is unable to decypher the chat texts among the 2 clients. It is devel
 
 Python 3 - version 3.6.5
 
-### modules :
+### Modules :
 
    * socket - Low-level networking interface
    * threading - Higher-level threading interface
@@ -38,6 +38,17 @@ Finally, connection is established now!!
 You can chat with your friend with with one client as you and another client as your friend.
 And without server interviewing your chats!!
 Server script will show the encrypted messages shared among the 2 clients.
+
+# Screenshots
+
+## Server Sript :
+![](https://github.com/ronaessi-28/Entice/blob/master/screenshot/img1.png)
+## Client_1 Script : Zephyr
+![](https://github.com/ronaessi-28/Entice/blob/master/screenshot/img2.png)
+## Client_2 Script : Klaus
+![](https://github.com/ronaessi-28/Entice/blob/master/screenshot/img3.png)
+## Server after few conversation :
+![](https://github.com/ronaessi-28/Entice/blob/master/screenshot/img4.png)
 
 # Socket Programming
 
