@@ -42,13 +42,13 @@ Server script will show the encrypted messages shared among the 2 clients.
 # Screenshots
 
 ## Server Sript :
-![](https://github.com/ronaessi-28/Entice/img1.png)
+![](https://github.com/ronaessi-28/Multithreaded-End-to-End-Encrypted-Cryptography-Based-Real-Time-Chat/img1.png)
 ## Client_1 Script : Zephyr
-![](https://github.com/ronaessi-28/Entice/img2.png)
+![](https://github.com/ronaessi-28/Multithreaded-End-to-End-Encrypted-Cryptography-Based-Real-Time-Chat/img2.png)
 ## Client_2 Script : Klaus
-![](https://github.com/ronaessi-28/Entice/img3.png)
+![](https://github.com/ronaessi-28/Multithreaded-End-to-End-Encrypted-Cryptography-Based-Real-Time-Chat/img3.png)
 ## Server after few conversation :
-![](https://github.com/ronaessi-28/Entice/img4.png)
+![](https://github.com/ronaessi-28/Multithreaded-End-to-End-Encrypted-Cryptography-Based-Real-Time-Chat/img4.png)
 
 # Socket Programming
 
