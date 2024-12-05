@@ -10,7 +10,7 @@ The server is unable to decypher the chat and  texts among the 2 clients. It is 
 
 ## Requirments
 
-Python 3 - version 3.6.5
+Python 3 - version 3.6.5 
 
 ### Modules :
 
