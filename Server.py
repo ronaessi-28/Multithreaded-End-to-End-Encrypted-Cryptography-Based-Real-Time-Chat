@@ -2,7 +2,7 @@
 from socket import *
 from threading import Thread
 
-
+  
 client_sock = []   # stores both client sockets
 client_addresses = {}   # stores {key: client socket, values: client address}
 public_key = []     # stores public keys of both clients
