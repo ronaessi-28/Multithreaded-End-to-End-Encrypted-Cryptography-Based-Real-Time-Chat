@@ -8,7 +8,7 @@ The server is unable to decypher the chat and  texts among the 2 clients. It is 
 * Encryption 
 * Secure
 
-## Requirments
+## Requirments  
 
 Python 3 - version 3.6.5 
 
