@@ -4,7 +4,7 @@ The server is unable to decypher the chat and  texts among the 2 clients. It is 
 
 ## Features    
 
-* Chatting
+* Chatting   
 * Encryption 
 * Secure
 
