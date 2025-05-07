@@ -5,7 +5,7 @@ from tkinter import filedialog, messagebox, simpledialog,colorchooser
 import sys
 import time  
 import RSA
-
+  
 # Define a set of emojis
 emojis = ["😊", "😂", "😍", "👍", "🎉", "❤️", "🌟", "🔥"]
 colors = ["black", "red", "green", "blue", "yellow", "orange", "purple"]
