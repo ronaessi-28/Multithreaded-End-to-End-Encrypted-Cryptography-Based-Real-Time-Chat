@@ -8,7 +8,7 @@ def gcd(a, b):
         c = a % b
         a = b
         b = c
-    return a
+    return a  
 
 def modinv(phi, m):
     for x in range(1, m):
