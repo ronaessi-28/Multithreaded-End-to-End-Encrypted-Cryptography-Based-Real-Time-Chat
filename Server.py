@@ -1,6 +1,6 @@
 """Server Script for multithreaded chat application for two clients"""
 from socket import *  
-from threading import Thread
+from threading import Thread  
 
     
 client_sock = []   # stores both client sockets
