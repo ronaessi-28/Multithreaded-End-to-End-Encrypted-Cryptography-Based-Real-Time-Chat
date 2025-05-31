@@ -1,5 +1,5 @@
 # Python module containing prime numbers upto 1000
-# used in cryptography
+# used in cryptography  
 
 from random import choice
 
