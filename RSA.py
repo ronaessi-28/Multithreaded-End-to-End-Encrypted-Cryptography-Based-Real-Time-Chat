@@ -1,6 +1,6 @@
 # Python Module for Encryption and Decryption by RSA Algorithm
 
-import primes
+import primes  
 from random import choice   
 
 def gcd(a, b):
