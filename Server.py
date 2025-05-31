@@ -1,5 +1,5 @@
 """Server Script for multithreaded chat application for two clients"""
-from socket import *
+from socket import *  
 from threading import Thread
 
     
