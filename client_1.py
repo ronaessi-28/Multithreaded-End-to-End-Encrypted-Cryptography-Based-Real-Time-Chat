@@ -1,5 +1,5 @@
 import tkinter as tk  
-from socket import *
+from socket import *  
 from threading import Thread
 from tkinter import filedialog, messagebox, simpledialog,colorchooser
 import sys
