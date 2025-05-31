@@ -1,7 +1,7 @@
 # Python Module for Encryption and Decryption by RSA Algorithm
 
 import primes  
-from random import choice   
+from random import choice     
 
 def gcd(a, b):
     while b != 0:
