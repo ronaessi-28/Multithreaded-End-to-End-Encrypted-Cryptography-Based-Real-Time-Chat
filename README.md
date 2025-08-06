@@ -3,7 +3,7 @@ This is an encrypted chat application to make 2 clients  offline chatting possib
 The server is unable to decypher the chat and  texts among the 2 clients. It is developed by the use  of Socket Programming in Python and the  encryption is done using RSA Algorithm.  
 
 ## Features       
-
+ 
 * Chatting   
 * Encryption 
 * Secure
