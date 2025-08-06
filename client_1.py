@@ -1,6 +1,6 @@
 # client_1.py
 import socket
-import threading
+import threading 
 import tkinter as tk 
 from tkinter import simpledialog, scrolledtext, messagebox, font as tkFont
 import random
