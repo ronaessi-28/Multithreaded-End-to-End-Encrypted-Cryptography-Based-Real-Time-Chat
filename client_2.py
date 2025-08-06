@@ -1,5 +1,5 @@
 # client_2.py
-import socket
+import socket 
 import threading 
 import tkinter as tk
 from tkinter import simpledialog, scrolledtext, messagebox, font as tkFont
